@@ -1,5 +1,5 @@
 # GDIM32_Phantom
-This is GDIM 32 Group 22: Shengjie Zhang, Wei Lun Tsai, Yiran Luo, Xinlin Li
+This is GDIM 32 Group 22: Shengjie Zhang, Allan (Weilun) Tsai, Yiran Luo, Xinlin Li
 
 Hello and welcome to our farming simulation game. In this second playtest you will try to make $1000 dollars by yourself or with another player locally by nurturing, selling, and catching the animals! In the game we have cow, sheep, pig, duck, and chicken for animals. And soy bean, worm, corn, carrot, and hay for the animals' food.
 
