@@ -7,7 +7,11 @@ Animals can either be bought from the shop, and you have to buy food from the sh
 
 Animals can also be caught in the wild, if you have the food that they like, they will follow you once you are close to them. Only one animal will follow you at the time. 
 
+![Buy Food](https://github.com/user-attachments/assets/3e047b89-e3f0-42b6-a40a-a085df88aa41)
+
 Be careful of the wolf out in the wild, it will hunt the animal it sees, but it is scare of human, so you can walk over to scare it away from the animals.
+
+![Wolf Run](https://github.com/user-attachments/assets/0cfc35b6-facc-49eb-b0d7-4b6ae08613a4)
 
 You will be start the game in the main menu, you can either choose to play the game by yourself with an AI player or with another player locally, and the quit button will quit the game.
 
